@@ -1,0 +1,8 @@
+<Alloy>
+  <Window id="win">
+    <Label id="hiddenLabel" visible="false"/>
+    <ScrollView id="scrollView" layout="horizontal" />
+    <ActivityIndicator id="activityIndicator" message="Loading..."/>
+    <Button id="closeButton" onClick="onClickCloseWindow">Close</Button>
+  </Window>
+</Alloy>

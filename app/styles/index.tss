@@ -1,0 +1,8 @@
+
+"#container" : {
+	height: Ti.UI.SIZE
+}
+
+".buttonSpace" : {
+	top: 20
+}

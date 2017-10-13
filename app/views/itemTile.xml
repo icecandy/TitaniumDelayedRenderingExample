@@ -1,0 +1,8 @@
+<Alloy>
+    <View id="itemTile">
+        <View id="paddingFrame" layout="vertical">
+            <ImageView id="imageView"/>
+            <Label id="textLabel"/>
+        </View>
+    </View>
+</Alloy>

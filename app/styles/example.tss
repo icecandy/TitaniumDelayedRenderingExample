@@ -1,0 +1,22 @@
+
+"#hiddenLabel" : {
+    verticalAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_TOP,
+    textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT
+}
+
+"#scrollView" : {
+    top: 50,
+    opacity: 0.0,
+    contentWidth: Ti.UI.FILL,
+    scrollType: "vertical"
+}
+
+"#activityIndicator" : {
+    color: "black",
+    indicatorColor: "black"
+}
+
+"#closeButton" : {
+	top: 20,
+	right: 20
+}

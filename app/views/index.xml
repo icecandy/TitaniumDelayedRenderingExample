@@ -1,0 +1,9 @@
+<Alloy>
+  <Window id="win">
+    <View id="container" layout="vertical">
+      <Button id='button1' onClick="onClickExample1">Example 1 - simulated</Button>
+      <Button id='button2' class="buttonSpace" onClick="onClickExample2">Example 2 - real download</Button>
+      <Button id='button3' class="buttonSpace" onClick="onClickExample3">Example 3 - using a watcher</Button>
+    </View>
+  </Window>
+</Alloy>

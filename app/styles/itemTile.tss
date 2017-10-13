@@ -1,0 +1,30 @@
+"#itemTile" : {
+    backgroundColor: "blue",
+    width: "44%",
+    height: Ti.UI.SIZE,
+    //opacity: 0.0,
+    left: "4%",
+    top: 10
+}
+
+//padding frame for a margin
+"#paddingFrame" : {
+    top: 7,
+    left: 7,
+    right: 7,
+    bottom: 7,
+    height: Ti.UI.SIZE
+}
+
+"#imageView" : {
+    height: 100
+}
+
+"#textLabel" : {
+    width: Ti.UI.FILL,
+    height: Ti.UI.SIZE,
+    top: 5,
+    color: "white",
+    verticalAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_TOP,
+    textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT
+}
